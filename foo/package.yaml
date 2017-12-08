@@ -1,0 +1,7 @@
+name: foo
+version: 1.0.0
+
+library:
+  source-dirs: .
+  dependencies:
+    - base
